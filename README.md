@@ -25,51 +25,59 @@ I'm a backend developer who transforms coffee into clean, efficient Python code.
 - 🛡️ Mastering authentication/authorization flows
 - 🚢 Exploring containerization & deployment
 
-## 🛠️ Tech Stack
+## 💻 Core Skills
 
-**🧰 Core Tools**
+### 📌 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
-| Category       | Technologies |
-|----------------|--------------|
-| **Languages**  | Python, Java, C++ |
-| **Frameworks** | Django, Flask, FastAPI |
-| **Databases**  | MySQL, PostgreSQL, SQLite |
-| **DevOps**     | Git, GitHub, Docker, CI/CD |
+- Python (Strong fundamentals)
+- Flask (Routing, Jinja2, APIs)
+- Django (Models, Views, Templates, Auth, Forms, Decorators)
 
-**🔍 In Depth**
+### 📌 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
-```mermaid
-pie
-    title My Tech Distribution
-    "Python/Django" : 45
-    "Flask/APIs" : 30
-    "Databases" : 15
-    "DevOps" : 10
-```
+- SQLite (Django default)
+- MySQL (Basic queries)
+- Django ORM (Advanced queries)
 
-## 📈 GitHub Analytics
+### 📌 APIs & Authentication
+- RESTful API development
+- JSON parsing
+- CRUD operations
+- Django authentication system
+- Session management
+- Custom decorators (@login_required)
 
+### 📌 Development Tools
+![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+
+- Git version control
+- GitHub collaboration
+- Jinja2 templating
+- Form validation
+- Debugging techniques
+
+## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laiba-Muzammal&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Laiba's stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laiba-Muzammal&layout=compact&theme=radical&hide_border=true" alt="Top langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laiba-Muzammal&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laiba-Muzammal&layout=compact&theme=radical&hide_border=true"/>
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Laiba-Muzammal&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-## 🏆 Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Laiba-Muzammal&theme=onedark&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌐 Let's Connect
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/Laiba-Muzammal)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:laibamuzammal7@gmail.com)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">](https://heroic-torte-ab7bf8.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/Laiba-Muzammal)
+[![Email](https://img.shields.io/badge/Email-laibamuzammal7@gmail.com-red?logo=gmail)](mailto:laibamuzammal7@gmail.com)
 
 ---
 
-> "Programming isn't about what you know; it's about what you can figure out." - Chris Pine
+> *"Clean code always looks like it was written by someone who cares."*  
+> **— Robert C. Martin**
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Laiba-Muzammal.Laiba-Muzammal&left_color=red&right_color=green)](https://github.com/Laiba-Muzammal)
+[![Visits](https://visitor-badge.laobi.icu/badge?page_id=Laiba-Muzammal.Laiba-Muzammal)](https://github.com/Laiba-Muzammal)
