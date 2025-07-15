@@ -1,21 +1,51 @@
 # 💫 About Me:
-Hi, I'm Laiba Muzammal, a passionate and curious developer exploring the world of backend development and building meaningful digital solutions.<br><br>💻 I work mainly with Python, Django, and Flask<br>🔙 Currently focused on strengthening my backend skills<br>🌱 Learning daily: diving deeper into APIs, databases, and software design patterns<br>🚀 Always up for building projects that solve real problems<br>📚 I love to learn, debug, and document clean code<br><br>
+Hi, I'm Laiba Muzammal, a passionate backend developer crafting robust digital solutions with Python. I thrive on turning complex problems into elegant, efficient code.
 
+🔧 **Core Skills:**  
+- Backend Development with Python, Django & Flask  
+- RESTful API Design & Implementation  
+- Database Architecture (SQL & ORMs)  
+- Software Design Patterns & Clean Code  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Laiba Muzammal ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laibamuzammal7@gmail.com) [![Portfolio](https://heroic-torte-ab7bf8.netlify.app/)]
+🚀 **Current Focus:**  
+- Deepening expertise in distributed systems  
+- Optimizing database performance  
+- Implementing authentication best practices  
+
+🌱 **Learning Journey:**  
+- Exploring microservices architecture  
+- Mastering deployment pipelines  
+- Contributing to open-source projects  
+
+💡 **Philosophy:**  
+I believe in building scalable solutions that balance technical excellence with real-world usability. Every line of code should serve a purpose.
+
+## 🌐 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat&logo=linkedin)](https://linkedin.com/in/Laiba-Muzammal)  
+[![Email](https://img.shields.io/badge/Email-laibamuzammal7@gmail.com-D14836?style=flat&logo=gmail)](mailto:laibamuzammal7@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23000000?style=flat&logo=netlify)](https://heroic-torte-ab7bf8.netlify.app/)  
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Laiba-Muzammal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Laiba-Muzammal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Laiba-Muzammal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask) ![Jinja](https://img.shields.io/badge/Jinja-B41717?logo=jinja)  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Laiba-Muzammal&theme=city_lights&no-frame=false&no-bg=false&margin-w=4)
+**Databases & DevOps:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify)  
+
+**Additional Skills:**  
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)  
+
+# 📊 GitHub Stats:
+[![Laiba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laiba-Muzammal&show_icons=true&theme=radical&hide_border=true)](https://github.com/Laiba-Muzammal)  
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laiba-Muzammal&layout=compact&theme=radical&hide_border=true)](https://github.com/Laiba-Muzammal)  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Laiba-Muzammal&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+
+## � GitHub Trophies
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Laiba-Muzammal&theme=onedark&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Laiba-Muzammal&icon=2&color=3)](https://visitcount.itsvg.in)
+[![Visits](https://visitor-badge.laobi.icu/badge?page_id=Laiba-Muzammal.Laiba-Muzammal)](https://github.com/Laiba-Muzammal)  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*"First, solve the problem. Then, write the code." - John Johnson*
