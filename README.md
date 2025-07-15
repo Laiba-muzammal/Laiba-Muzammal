@@ -35,35 +35,13 @@ I'm a backend developer who transforms coffee into clean, efficient Python code.
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
-- Python (Strong fundamentals)
-- Flask (Routing, Jinja2, APIs)
-- Django (Models, Views, Templates, Auth, Forms, Decorators)
-
 ### 📌 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
-- SQLite (Django default)
-- MySQL (Basic queries)
-- Django ORM (Advanced queries)
-
-### 📌 APIs & Authentication
-- RESTful API development
-- JSON parsing
-- CRUD operations
-- Django authentication system
-- Session management
-- Custom decorators (@login_required)
-
 ### 📌 Development Tools
 ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-
-- Git version control
-- GitHub collaboration
-- Jinja2 templating
-- Form validation
-- Debugging techniques
 
 ## 📊 GitHub Stats
 <div align="center">
