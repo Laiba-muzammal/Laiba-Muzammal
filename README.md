@@ -51,7 +51,6 @@ I'm a backend developer who transforms coffee into clean, efficient Python code.
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/Laiba-Muzammal)
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="laiba-muzammal" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/laiba-muzammal?trk=profile-badge">Laiba Muzammal</a></div>
 [![Email](https://img.shields.io/badge/Email-laibamuzammal7@gmail.com-red?logo=gmail)](mailto:laibamuzammal7@gmail.com)
 
 ---
