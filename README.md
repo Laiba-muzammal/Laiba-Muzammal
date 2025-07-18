@@ -26,7 +26,7 @@ I'm a backend developer who transforms coffee into clean, efficient Python code.
 - 🛡️ Mastering authentication/authorization flows
 - 🚢 Exploring containerization & deployment
 
-## 🌐 My Portfolio Website
+## 🌐 Portfolio 
 
 https://majestic-marigold-1c5787.netlify.app/
 
