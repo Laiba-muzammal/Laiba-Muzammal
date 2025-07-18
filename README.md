@@ -1,5 +1,7 @@
 # 💻 Hello World! I'm Laiba Muzammal 
 
+---
+
 **✨ Backend Developer | Python Enthusiast | Problem Solver**
 
 ```python
@@ -8,6 +10,8 @@ while True:
     learn_new_tech()
     build_meaningful_solutions()
 ```
+
+---
 
 ## 🚀 About Me
 
@@ -25,11 +29,16 @@ I'm a backend developer who transforms coffee into clean, efficient Python code.
 - 🛡️ Mastering authentication/authorization flows
 - 🚢 Exploring containerization & deployment
 
+---
+
 ## 🌐 My Portfolio Website
 https://majestic-marigold-1c5787.netlify.app/
 
+---
 
 ## 💻 Core Skills
+
+---
 
 ### 📌 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -39,19 +48,27 @@ https://majestic-marigold-1c5787.netlify.app/
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
+---
+
 ### 📌 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
+---
+
 ### 📌 Development Tools
 ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+
+---
 
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laiba-Muzammal&show_icons=true&theme=radical&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laiba-Muzammal&layout=compact&theme=radical&hide_border=true"/>
 </div>
+
+---
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/Laiba-Muzammal)
@@ -61,5 +78,7 @@ https://majestic-marigold-1c5787.netlify.app/
 
 > *"Clean code always looks like it was written by someone who cares."*  
 > **— Robert C. Martin**
+
+---
 
 [![Visits](https://visitor-badge.laobi.icu/badge?page_id=Laiba-Muzammal.Laiba-Muzammal)](https://github.com/Laiba-Muzammal)
