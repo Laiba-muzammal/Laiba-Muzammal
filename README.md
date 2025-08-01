@@ -55,7 +55,7 @@ https://gilded-pegasus-dd7ffa.netlify.app/
 </div>
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/Laiba-Muzammal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/laiba-muzammal/)
 [![Email](https://img.shields.io/badge/Email-laibamuzammal7@gmail.com-red?logo=gmail)](mailto:laibamuzammal7@gmail.com)
 
 > *"Clean code always looks like it was written by someone who cares."*  
