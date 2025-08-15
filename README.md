@@ -28,7 +28,7 @@ I'm a backend developer who transforms coffee into clean, efficient Python code.
 
 ## 🌐 Portfolio 
 
-https://gilded-pegasus-dd7ffa.netlify.app/
+https://cute-donut-13c053.netlify.app/
 
 ## 💻 Core Skills
 
